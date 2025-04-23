@@ -1,2 +1,2 @@
 # DEMO
-Use simple html tags.
+Use simple html tag
